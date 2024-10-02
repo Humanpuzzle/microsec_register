@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+#user_table td, #user_table th {
+    padding: 14px 12px 14px 0px;
+}
